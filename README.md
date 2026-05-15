@@ -1,6 +1,6 @@
-# Project 3: Advanced JavaScript & Data Processing
+ Advanced JavaScript & Data Processing
 
-Welcome to the documentation for Project 3! This project is designed to showcase advanced JavaScript concepts, focusing heavily on **Array Methods**, **Object Manipulation**, and **Module Management**.
+This project is designed to showcase advanced JavaScript concepts, focusing heavily on **Array Methods**, **Object Manipulation**, and **Module Management**.
 
 ---
 
